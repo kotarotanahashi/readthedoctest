@@ -6,6 +6,14 @@
 W++elcome to readthedoctest's documentation+++!
 ==========================================
 
+:math:`x_{i} + y_{j}`
+
+.. graphviz::
+
+   digraph foo {
+      "bar" -> "baz";
+   }
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
